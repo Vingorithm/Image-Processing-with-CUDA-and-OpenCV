@@ -1,0 +1,2 @@
+D:\testCudaOpenCV\CudaOpenCV1\x64\Debug\CudaOpenCV1.exe
+D:\testCudaOpenCV\CudaOpenCVSoalUTSNomor2\x64\Debug\CudaOpenCV1.exe
